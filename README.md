@@ -1,5 +1,6 @@
 # Letsupgrade-python
 Python - Letsupgrade a 15hr certified python course
+
 Q1 What is Python? What are the ways to install python in PC?
 Ans:
 Python is a programming language that was developed by Guido Van Rossum in 1991, marketed by Google.
